@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "test1": {
+        "title": "Заголовок test1 - первый элемент",
+        "description": "Описание первого элемента в test1",
+        "url": "https://example.com/test1/image1.png"
+      },
+      "test2": {
+        "title": "Заголовок test2 - первый элемент",
+        "description": "Описание первого элемента в test2",
+        "url": "https://example.com/test2/image1.png"
+      }
+    }
+  ]
+}
